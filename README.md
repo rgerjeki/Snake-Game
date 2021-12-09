@@ -18,6 +18,10 @@ pip install tk
 python3 Snake.py
 ```
 
+## Screenshots
+
+![App Screenshot](https://github.com/rgerjeki/Snake-Game/blob/main/Screenshot%202021-12-09%20170210.jpg)
+
 ## Authors
 
 [Reese](https://github.com/rgerjeki)
