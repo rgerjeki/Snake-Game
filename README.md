@@ -7,6 +7,7 @@ A basic snake game made with the Tkinter Python library.
 ## Prerequisites
 Required
 * Tkinter
+
 to install:
 ```bash
 pip install tk
