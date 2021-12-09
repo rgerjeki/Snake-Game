@@ -9,12 +9,12 @@ Required
 * Tkinter
 to install:
 ```bash
-$ pip install tk
+pip install tk
 ```
 ## How to run the script
 
 ```bash
-$ python3 Snake.py
+python3 Snake.py
 ```
 
 ## Authors
